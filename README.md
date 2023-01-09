@@ -1,1 +1,1 @@
-# Automated Python Lesson #1
+# Automated Python Lessons
